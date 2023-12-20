@@ -16,7 +16,7 @@ A simple example to send mail to a user after a post request to signup
 1. Clone the repository:
 
     ```bash
-    git clone 
+    git clone https://github.com/solomonbestz/Send-Mail-Nodejs.git
     ```
 
 2. Install dependencies
